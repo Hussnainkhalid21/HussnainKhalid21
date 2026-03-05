@@ -1,16 +1,43 @@
-## Hi there 👋
+Cybersecurity | AI Automation | Digital Forensics | Ethical Hacking
 
-<!--
-**Hussnainkhalid21/HussnainKhalid21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Hussnain Khalid
 
-Here are some ideas to get you started:
+I am a Cybersecurity student and AI enthusiast with a strong interest in ethical hacking, OSINT, automation, and intelligent systems. Working on how security, artificial intelligence, and automation can be combined to build smarter and safer digital environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focus:
+Cybersecurity & Ethical Hacking
+AI Automation & Intelligent Systems
+OSINT & Digital Investigations
+CRM System Design & Automation
+Workflow Automation & Integrations
+
+Cybersecurity & Forensics Tools:
+Maltego – OSINT & Link Analysis
+Wireshark – Network Packet Analysis
+Autopsy – Digital Forensics Investigation
+Nmap – Network Scanning & Enumeration
+Aircrack-ng – Wireless Security Testing
+Hydra – Password Cracking Tool
+John the Ripper – Password Auditing
+Pentest Tools – Vulnerability Testing
+OSINT Framework – Open Source Intelligence
+
+AI Tools:
+n8n Automation
+GoHighLevel (GHL)
+AI Automation Systems
+CRM System Design
+Workflow Integrations
+
+Currently Learning
+Advanced Penetration Testing
+AI Security & AI Agents
+Security Automation
+Cloud Security
+Threat Intelligence
+
+Goals:
+Build AI-driven cybersecurity tools
+Contribute to open-source security projects
+Develop intelligent automation systems
+Continue learning advanced cybersecurity techniques
