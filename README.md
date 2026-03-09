@@ -96,9 +96,7 @@
 
 ## Connect With Me
 <p>
-  <a href="https://github.com/HussnainKhalid21" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  
   <a href="https://www.linkedin.com/in/hussnain-khalid-793480354" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
@@ -108,7 +106,5 @@
   <a href="https://www.reddit.com/user/severus_100/" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-111111?style=for-the-badge&logo=reddit&logoColor=FF4500" />
   </a>
-  <a href="https://discord.com/users/hussnain_khalid_20510" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=5865F2" />
-  </a>
+
 </p>
