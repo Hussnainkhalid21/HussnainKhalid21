@@ -5,7 +5,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Cybersecurity-0A0F1C?style=for-the-badge&logo=hackthebox&logoColor=red" />
-  <img src="https://img.shields.io/badge/AI%20Automation-0A0F1C?style=for-the-badge&logo=openai&logoColor=red" />
+<img src="https://img.shields.io/badge/Machine%20Learning-0A0F1C?style=for-the-badge&logo=tensorflow&logoColor=red" />
   <img src="https://img.shields.io/badge/Digital%20Forensics-0A0F1C?style=for-the-badge&logo=datadog&logoColor=red" />
   <img src="https://img.shields.io/badge/Ethical%20Hacking-0A0F1C?style=for-the-badge&logo=kalilinux&logoColor=red" />
 </p>
