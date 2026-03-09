@@ -23,12 +23,13 @@
 - 🔹 Cybersecurity
 - 🔹 Ethical Hacking
 - 🔹 AI Automation
+- 🔹 Machine Learning
 - 🔹 OSINT
 - 🔹 Digital Forensics
 - 🔹 CRM Automation
 - 🔹 Workflow Integrations
 
-## Tools & Technologies
+## Tools
 <p>
   <img src="https://img.shields.io/badge/Maltego-111111?style=for-the-badge&logo=securityscorecard&logoColor=red" />
   <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=red" />
@@ -38,8 +39,42 @@
   <img src="https://img.shields.io/badge/Hydra-111111?style=for-the-badge&logo=linux&logoColor=red" />
   <img src="https://img.shields.io/badge/John%20the%20Ripper-111111?style=for-the-badge&logo=ghostery&logoColor=red" />
   <img src="https://img.shields.io/badge/OSINT%20Framework-111111?style=for-the-badge&logo=googlechrome&logoColor=red" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=red" />
+  <img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=red" />
+  <img src="https://img.shields.io/badge/Nikto-111111?style=for-the-badge&logo=apache&logoColor=red" />
+  <img src="https://img.shields.io/badge/SQLmap-111111?style=for-the-badge&logo=mysql&logoColor=red" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=red" />
+  <img src="https://img.shields.io/badge/Parrot%20OS-111111?style=for-the-badge&logo=linuxmint&logoColor=red" />
+  <img src="https://img.shields.io/badge/Tor-111111?style=for-the-badge&logo=torbrowser&logoColor=red" />
+  <img src="https://img.shields.io/badge/Shodan-111111?style=for-the-badge&logo=shodan&logoColor=red" />
+  <img src="https://img.shields.io/badge/Splunk-111111?style=for-the-badge&logo=splunk&logoColor=red" />
+  <img src="https://img.shields.io/badge/YARA-111111?style=for-the-badge&logo=target&logoColor=red" />
+  <img src="https://img.shields.io/badge/Volatility-111111?style=for-the-badge&logo=windows-terminal&logoColor=red" />
+  <img src="https://img.shields.io/badge/Hashcat-111111?style=for-the-badge&logo=protonmail&logoColor=red" />
+  <img src="https://img.shields.io/badge/Snort-111111?style=for-the-badge&logo=securityscorecard&logoColor=red" />
+  <img src="https://img.shields.io/badge/OpenVAS-111111?style=for-the-badge&logo=greensock&logoColor=red" />
+  <img src="https://img.shields.io/badge/Nessus-111111?style=for-the-badge&logo=tenable&logoColor=red" />
   <img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=red" />
   <img src="https://img.shields.io/badge/GoHighLevel-111111?style=for-the-badge&logo=hubspot&logoColor=red" />
+</p>
+
+<h3 align="left">Languages:</h3>
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
 </p>
 
 ## Currently Learning
@@ -52,24 +87,28 @@
 
 ## Goals
 - 🎯 Build AI-driven cybersecurity tools
+- 🎯 Build machine learning powered security solutions
 - 🎯 Contribute to open-source security projects
 - 🎯 Develop intelligent automation systems
-- 🎯 Keep growing in advanced cybersecurity
+- 🎯 Keep growing in advanced cybersecurity and machine learning
 
 ---
 
-<h1 align="center">Hi 👋, I'm Muhammad Hussnain khalid</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-
 ## Connect With Me
 <p>
-  <a href="https://github.com/HussnainKhalid21">
+  <a href="https://github.com/HussnainKhalid21" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hussnain-khalid-793480354" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://x.com/hussnain2003" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%2FX-111111?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.reddit.com/user/severus_100/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-111111?style=for-the-badge&logo=reddit&logoColor=FF4500" />
+  </a>
+  <a href="https://discord.com/users/hussnain_khalid_20510" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=5865F2" />
   </a>
 </p>
