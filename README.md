@@ -95,15 +95,15 @@
 ---
 
 ## Connect With Me
+
 <p>
-<a href="https://www.linkedin.com/in/hussnain-khalid-793480354" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
+  <a href="https://www.linkedin.com/in/hussnain-khalid-793480354" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://x.com/hussnain2003" target="_blank">
     <img src="https://img.shields.io/badge/Twitter%2FX-111111?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.reddit.com/user/severus_100/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-111111?style=for-the-badge&logo=reddit&logoColor=FF4500" />
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
-
 </p>
